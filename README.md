@@ -30,7 +30,7 @@ landmark: 3
 society_name: 4  
 street: 5  
 sub_locality: 6
-
+pincode: 7
 
 The dataset is split into three subsets:
 
