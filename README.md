@@ -54,6 +54,12 @@ To use the trained model for address parsing and Named Entity Recognition:
 2. Load the model and metadata from the saved file (distilbert_ner_model_meta.pth).
 3. Use the model to predict Named Entities and parse addresses by providing input text.
 
+## Model File
+You can download the trained model file from the following link:
+
+[distilbert_ner_model_meta.pth](https://drive.google.com/file/d/1GrFJUBnQY2Rqcqz6bgNvMT-oSCE-brdD/view?usp=sharing)
+
+
 ## Images
 
 ![Stream lit](README_images/st_img.png)
