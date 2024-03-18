@@ -1,14 +1,13 @@
 # Indian-Address-Parser-and-Entity-Matching
 
+
+![Bert](README_images/bert.gif)
+
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/)
 [![Transformers](https://img.shields.io/badge/transformers-4.28.1-brightgreen)](https://huggingface.co/transformers/)
-[![PyTorch](https://img.shields.io/badge/pytorch-2.0.1-brightgreen)](https://pytorch.org/)
-[![Hugging Face](https://img.shields.io/badge/huggingface-0.0.17-brightgreen)](https://huggingface.co/)
-
-    
-
-
+[![PyTorch](https://img.shields.io/badge/pytorch-2.0.1-brightgreen)](https://pytorch.org/)  
 ## Overview
 This project implements a custom Named Entity Recognition (NER) system for address parsing functionality by fine tuning DistilBERT model. The model is trained on a dataset containing addresses and associated labels for Named Entities.
 
