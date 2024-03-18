@@ -29,8 +29,9 @@ flat_apartment_number: 2
 landmark: 3  
 society_name: 4  
 street: 5  
-sub_locality: 6
+sub_locality: 6  
 pincode: 7
+
 
 The dataset is split into three subsets:
 
@@ -53,12 +54,6 @@ To use the trained model for address parsing and Named Entity Recognition:
 1. Ensure all required libraries are installed (listed in requirements.txt).
 2. Load the model and metadata from the saved file (distilbert_ner_model_meta.pth).
 3. Use the model to predict Named Entities and parse addresses by providing input text.
-
-## Model File
-You can download the trained model file from the following link:
-
-[distilbert_ner_model_meta.pth](https://drive.google.com/file/d/1GrFJUBnQY2Rqcqz6bgNvMT-oSCE-brdD/view?usp=sharing)
-
 
 ## Images
 
